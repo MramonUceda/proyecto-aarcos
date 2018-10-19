@@ -1,0 +1,25 @@
+/*
+  Azul: #b7deed
+*/
+/* Dorado ffbf00a2 */
+
+body{
+  /* background-image: url("../images/primeraBackground.jpg"); */
+  font-family: 'Raleway', sans-serif;
+ }
+
+ #header img{
+   width: 80px;
+ }
+ 
+ #footer{
+   /* background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372); */
+   background: white;
+   /* border: 1px solid black; */
+   margin-top: 20px;
+ }
+
+ #footer a{
+   color: rgba(0,0,0,.5);
+ }
+
